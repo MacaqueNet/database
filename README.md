@@ -38,4 +38,4 @@ The MacaqueNet [newsletter]() is a 3-monthly newsletter to inform the members ab
 
 ## Bugs, ideas or requests?
 
-Have you detected bugs or issues with in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([Create New Issue](https://github.com/SPI-Birds/documentation/issues/new/choose)) or by [emailing us](MacaqueNet@gmail.com).
+Have you detected bugs or issues with in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([create new issue](https://github.com/SPI-Birds/documentation/issues/new/choose)) or by [emailing us](MacaqueNet@gmail.com).
