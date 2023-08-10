@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;MacaqueNet: Documentation&nbsp;
+  &nbsp;MacaqueNet documentation&nbsp;
 </h1>
 
 <h3 style="font-weight:normal" align="center">
