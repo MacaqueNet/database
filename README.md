@@ -3,7 +3,8 @@
 </h1>
 
 <h3 style="font-weight:normal" align="center">
-  &nbsp;Welcome to the documentation repository for the MacaqueNet Database. This README is an overview of the various documents you can find in this repository.&nbsp;
+  &nbsp;Welcome to the documentation repository for the MacaqueNet Database! 
+  This README is an overview of the various documents you can find in this repository.&nbsp;
 </h3>
 
 ---
