@@ -14,7 +14,7 @@
 As part of this project we are building the [FAIR](https://www.go-fair.org/fair-principles/), standardised and collaborative [MacaqueNet database](https://macaquenet.github.io/database/), bringing together data owners and users. 
 We always welcome [new projects](https://docs.google.com/forms/d/e/1FAIpQLSfR3pvQBxVdw8PK0UhnTfzd2Ty85oLSY3HVHmApoq7s-n26Jg/viewform) using MacaqueNet data or [new data contributions and suggestions](https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform).
 
-The documents of MacaqueNet are arranged in folders. Below you will find an overview of the documents that can be found in each of the folders.
+Below you will find an overview of the documents that can be found in each of the folders.
 
 ## Documents
 
@@ -34,4 +34,4 @@ MacaqueNet data can be requested for academic, research, education, and other no
 
 ## Issues, ideas or requests?
 
-Have you detected issues in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([create new issue](https://github.com/MacaqueNet/database/issues/new/choose)) or by [emailing us](MacaqueNet@gmail.com).
+Have you detected issues in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([create new issue](https://github.com/MacaqueNet/database/issues/new/choose)) or by [emailing us](mailto:MacaqueNet@gmail.com).
