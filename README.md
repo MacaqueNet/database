@@ -19,17 +19,17 @@ The documents of MacaqueNet are arranged in folders. Below you will find an over
 ## Documents
 
 ### Workflow
-The [workflow]() shows an overview of the steps from data contribution to data requests. 
+The [workflow](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20workflow.pdf) shows an overview of the steps from data contribution to data requests. 
 
 ### Relational database
 
 The MacaqueNet database is organised as a relational database. 
-You can find an overview of the tables part of the database, and how they are linked in the [relational database figure]().
-The [glossary]() has definitions for each variable in the database.
+You can find an overview of the tables part of the database, and how they are linked in the [relational database overview](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20relational%20database%20overview.pdf).
+The [glossary](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20glossary.pdf) has definitions for each variable in the database.
 
 ### Terms of use
 
-The [terms of use](https://github.com/SPI-Birds/documentation/blob/master/terms_and_conditions/SPI-Birds_Terms-of-Use.pdf) document is designed to guide the use of data hosted at the MacaqueNet database. 
+The [terms of use]() document is designed to guide the use of data hosted at the MacaqueNet database. 
 MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data custody, the document includes a data user agreement and guidelines for attribution.
 
 ### Newsletter
