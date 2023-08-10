@@ -29,13 +29,9 @@ The [glossary](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20glo
 
 ### Terms of use
 
-The [terms of use]() document is designed to guide the use of data hosted at the MacaqueNet database. 
+The [terms of use](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20terms%20of%20use.pdf) document is designed to guide the use of data hosted at the MacaqueNet database. 
 MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data custody, the document includes a data user agreement and guidelines for attribution.
 
-### Newsletter
+## Issues, ideas or requests?
 
-The MacaqueNet [newsletter]() is a 3-monthly newsletter to inform the members about technical developments (e.g., updates on the standard format), collaborations, grant applications, and meet-ups at conferences and other events. 
-
-## Bugs, ideas or requests?
-
-Have you detected bugs or issues with in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([create new issue](https://github.com/SPI-Birds/documentation/issues/new/choose)) or by [emailing us](MacaqueNet@gmail.com).
+Have you detected issues in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([create new issue](https://github.com/MacaqueNet/database/issues/new/choose)) or by [emailing us](MacaqueNet@gmail.com).
