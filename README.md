@@ -35,7 +35,7 @@ MacaqueNet data can be requested for academic, research, education, and other no
 ### MacaqueNet collaborators
 
 The [MacaqueNet consortium affiliations](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20affiliations.pdf) lists MacaqueNet collaborators with their current affiliations. We do our best to keep the affiliations up to date, but recommend checking affiliations before publishing.
-The [MacaqueNet collaborators map](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborators%20map.pdf) shows where current MacaqueNet collaborators are located, as well as the geographical range of wild macaques.
+The [MacaqueNet collaborators map](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborator%20map.pdf) shows where current MacaqueNet collaborators are located, as well as the geographical range of wild macaques.
 
 ## Issues, ideas or requests?
 
