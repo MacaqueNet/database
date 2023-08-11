@@ -24,8 +24,8 @@ The [workflow](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20wor
 ### Relational database
 
 The MacaqueNet database is organised as a relational database. 
-You can find an overview of all the tables that are part of the database, and how they are linked in the [relational database overview](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20relational%20database%20overview.pdf).
-The [glossary](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20glossary.pdf) has definitions for each variable in the database.
+You can find an overview of all the tables that are part of the database, and how they are linked in the [relational database overview](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20relational%20database%20overview.pdf).
+The [glossary](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20glossary.pdf) has definitions for each variable in the database.
 
 ### Terms of use
 
@@ -34,8 +34,8 @@ MacaqueNet data can be requested for academic, research, education, and other no
 
 ### MacaqueNet collaborators
 
-The [MacaqueNet consortium affiliations](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20affiliations.pdf) lists MacaqueNet collaborators with their current affiliations. We do our best to keep the affiliations up to date, but recommend checking affiliations before publishing.
-The [MacaqueNet collaborators map](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborator%20map.pdf) shows where current MacaqueNet collaborators are located, as well as the geographical range of wild macaques.
+The [MacaqueNet consortium affiliations](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborators/MacaqueNet%20consortium%20affiliations.pdf) lists MacaqueNet collaborators with their current affiliations. We do our best to keep the affiliations up to date, but recommend checking affiliations before publishing.
+The [MacaqueNet collaborators map](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborators/MacaqueNet%20collaborator%20map.pdf) shows where current MacaqueNet collaborators are located, as well as the geographical range of wild macaques.
 
 ## Issues, ideas or requests?
 
