@@ -30,7 +30,7 @@ The [glossary](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20glo
 ### Terms of use
 
 The [terms of use](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20terms%20of%20use.pdf) document is designed to guide the use of data hosted at the MacaqueNet database. 
-MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data custody, the document includes a data user agreement and guidelines for attribution.
+MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data contributors, the document includes a data user agreement and guidelines for attribution.
 
 ## Issues, ideas or requests?
 
