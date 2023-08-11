@@ -32,6 +32,11 @@ The [glossary](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20glo
 The [terms of use](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20terms%20of%20use.pdf) document is designed to guide the use of data hosted at the MacaqueNet database. 
 MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data contributors, the document includes a data user agreement and guidelines for attribution.
 
+### MacaqueNet collaborators
+
+The [MacaqueNet consortium affiliations](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20affiliations.pdf) lists MacaqueNet collaborators with their current affiliations. We do our best to keep the affiliations up to date, but recommend checking affiliations before publishing.
+The [MacaqueNet collaborators map](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborator%20map.pdf) shows where current MacaqueNet collaborators are located, as well as the geographical range of wild macaques.
+
 ## Issues, ideas or requests?
 
 Have you detected issues in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([create new issue](https://github.com/MacaqueNet/database/issues/new/choose)) or by [emailing us](mailto:MacaqueNet@gmail.com).
