@@ -1,0 +1,61 @@
+### Email confirming data request
+Automated reply for data request Google form
+
+Thank you for submitting your data request to MacaqueNet! We will now contact the data contributor(s) for the dataset(s) you requested access to, with you in CC to establish contact. This might take a few weeks so thank you for your patience! 
+
+If you need to contact us in the meantime or if your request is on a short timeline then please don’t hesitate to email us at MacaqueNet@gmail.com.
+
+We’ll be in touch again soon!
+MacaqueNet
+
+### Email confirming contribution proposal
+Automated reply for data contribution/suggestion Google form
+
+Thank you for your interest in contributing data to MacaqueNet or for your suggestion! We will be in touch soon to discuss this further. 
+
+MacaqueNet
+
+### Email template for establishing contact between data user & data contributor
+To be sent to each data contributor (with data user in CC) for each dataset requested by a data user
+
+Dear [data contributor] and [data user],
+
+MacaqueNet’s mission is to encourage and facilitate collaboration between macaque researchers. Thank you both for being part of MacaqueNet!
+
+You are receiving this email because [data user] has requested access to the following of your dataset(s) for their project entitled [project title]: 
+
+-	[MacaqueNet ID], [population], [species], [study period], [behaviour], [extra info if needed]
+
+The project proposal is: 
+[project proposal]
+
+This email is supposed to establish contact between the two of you as data user and data contributor. We ask that [data contributor] now replies to this email with their proposed usage terms (see MacaqueNet Terms of Use). These terms may include citing related research, acknowledging funding sources or field teams, discussing potential co-authorship, etc. These usage terms are to be agreed solely between the data user and data contributor. Once an agreement is reached, we ask [data contributor] to send an email to MacaqueNet@gmail.com granting permission to share the requested dataset(s) with [data user]. We will then send the dataset to the data user. As outlined in our Terms of Use, the shared data must be used solely for the intended project for which access was granted. In addition to the agreed upon usage terms for individual datasets, any resulting papers using data from MacaqueNet should adhere to the citation guidelines stipulated in Annex I of the MacaqueNet terms of use.
+
+Best wishes,
+MacaqueNet
+
+### Email template for sending requested data to data user 
+To be sent to a data user (with data contributor in CC) when sending a requested dataset
+
+Dear [data user] and [data contributor],
+
+MacaqueNet’s mission is to encourage and facilitate collaboration between macaque researchers. Thank you both for being part of MacaqueNet!
+
+Attached, you will find the following MacaqueNet dataset(s) for your project entitled [project title]. These data are to be used according to the usage terms agreed on with [data contributor], the data contributor of this dataset: 
+
+-	[MacaqueNet ID], [population], [species], [study period], [behaviour], [extra info if needed]
+
+The project proposal is: 
+[project proposal]
+
+As outlined in our Terms of Use, the shared data must be used solely for the intended project for which access was granted. In addition to the agreed upon usage terms for individual datasets, any resulting papers using data from MacaqueNet should adhere to the citation guidelines stipulated in Annex I of the MacaqueNet terms of use.
+
+If [data user] wishes for this project to be featured on the MacaqueNet website’s project page, please inform us at MacaqueNet@gmail.com. Please indicate whether we can use the original title and proposal, or provide us with any updated versions.
+
+Good luck with the project!
+
+Best wishes,
+MacaqueNet
+
+
+
