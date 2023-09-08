@@ -24,7 +24,7 @@ MacaqueNet’s mission is to encourage and facilitate collaboration between maca
 
 You are receiving this email because [data user] has requested access to the following of your dataset(s) for their project entitled [project title]: 
 
--	[database version], [MacaqueNet ID], [population], [species], [study period], [behaviour], [extra info if needed]
+-	[MacaqueNet ID], [population], [species], [study period], [behaviour], [extra info if needed]
 
 The project proposal is: 
 [project proposal]
@@ -43,7 +43,7 @@ MacaqueNet’s mission is to encourage and facilitate collaboration between maca
 
 Attached, you will find the following MacaqueNet dataset(s) for your project entitled [project title]. These data are to be used according to the usage terms agreed on with [data contributor], the data contributor of this dataset: 
 
--	[MacaqueNet ID], [population], [species], [study period], [behaviour], [extra info if needed]
+-	[package version], [MacaqueNet ID], [population], [species], [study period], [behaviour], [extra info if needed]
 
 The project proposal is: 
 [project proposal]
