@@ -19,7 +19,7 @@ Below you will find an overview of the documents that can be found in this repos
 ## Documents
 
 ### Workflow
-The [workflow](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20workflow.pdf) shows an overview of the steps from data contribution to data requests. 
+The [workflow](https://github.com/MacaqueNet/database/blob/main/workflow/MacaqueNet%20workflow.pdf) shows an overview of the steps from data contribution to data requests. The workflow folder also contains the [emails](https://github.com/MacaqueNet/database/blob/main/workflow/MacaqueNet%20data%20request%20emails) that are sent out when MacaqueNet data is requested, as well as a [template for the format of social behavioral data contributions](https://github.com/MacaqueNet/database/blob/main/workflow/MacaqueNet%20social%20behavioral%20data%20contribution%20template.xlsx).
 
 ### Relational database
 
