@@ -41,9 +41,7 @@ To be sent to a data user when sending a requested dataset
 
 Dear [data user],
 
-Attached, you will find the following MacaqueNet dataset(s) for your project entitled [project title]. These data are to be used according to the usage terms agreed on with the respective data contributors of these datasets: 
-
--	[package version], [MacaqueNet ID], [population], [species], [study period], [behaviour], [extra info if needed]
+Attached, you will find the requested MacaqueNet dataset(s) for which permission to share was granted for your project entitled [project title]. These data are to be used according to the usage terms agreed on with the respective data contributors of these datasets.
 
 Note that these might not be all datasets requested for the project. 
 If we obtain additional permissions to share datasets, you will receive another email containing all the approved datasets. 
