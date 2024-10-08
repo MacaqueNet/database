@@ -29,13 +29,20 @@ You are receiving this email because [data user] has requested access to the fol
 The project proposal is: 
 [project proposal]
 
-This email is supposed to establish contact between the two of you as data user and data contributor. We ask that [data contributor] now replies to this email with their proposed usage terms (see MacaqueNet Terms of Use). These terms may include citing related research, acknowledging funding sources or field teams, discussing potential co-authorship, etc. These usage terms are to be agreed solely between the data user and data contributor. As outlined in our Terms of Use, the shared data must be used solely for the intended project for which access was granted. In addition to the agreed upon usage terms for individual datasets, any resulting papers using data from MacaqueNet should adhere to the citation guidelines stipulated in Annex I of the MacaqueNet terms of use.
+We are sending this email to establish contact between the data user[s] and data contributor[s]. To ensure consistency and comparability across requested datasets for this project, we ask that you please don't share your data directly and let us share the standardised dataset from the MacaqueNet database.
 
-Once an agreement is reached, we ask [data contributor] to send an email to MacaqueNet@gmail.com granting permission to share the requested dataset(s) with [data user]. We will then send the dataset to the data user.
+As a next step, we ask for [lead contact], as the lead contact for these datasets, to respond to [data user(s)] with their proposed usage terms, which can include citing related research, acknowledging funding sources or field teams, etc. (see the MacaqueNet Terms of Use for a full description). Please note that, by default, all data contributors ([data contributors])  whose data is used for a study should be included as co-authors, unless they specify that they do not wish to be a co-author. 
+
+Once an agreement is reached, we ask that [lead contact] sends an email to MacaqueNet@gmail.com granting permission to share the requested dataset(s) with [data user(s)], or letting us know that you do not wish to share your datasets for this study. Please aim to reply within two weeks, and if you anticipate needing more time, kindly inform us in advance.
+
+Once permission has been granted, the internal MacaqueNet team will send the dataset(s) to the data user. 
+
+As outlined in our Terms of Use[ADD LINK FOR TOU], the shared data must be used solely for the intended project for which access was granted. In addition to the agreed upon usage terms for individual datasets, any resulting papers using data from MacaqueNet should adhere to the citation guidelines stipulated in Annex I of the MacaqueNet terms of use, which include adding MacaqueNet as a consortium co-author.
 
 Data contributors can find more information about what happens when a data request is made here.[ADD LINK TO PDF: https://github.com/MacaqueNet/database/blob/main/workflow/What%20happens%20when%20a%20data%20user%20requests%20to%20use%20your%20data.pdf]
 
 Best wishes,
+
 MacaqueNet
 
 ### Email template for sending requested data to data user 
@@ -45,7 +52,7 @@ Dear [data user],
 
 Attached, you will find the requested MacaqueNet dataset(s) for which permission to share was granted for your project entitled [project title]. These data are to be used according to the usage terms agreed on with the respective data contributors of these datasets. To get started, the README file provides an overview of the folder contents, usage guidelines, and important information to help you use the data.
 
-Note that these might not be all datasets requested for the project. 
+Note that these might not be all datasets requested for the project [LIST ANY DATASETS REQUESTED THAT ARE NOT INCLUDED]. 
 If we obtain additional permissions to share datasets, you will receive another email containing all the approved datasets. 
 This process is in place to ensure that all datasets are part of the same package version and are fully compatible.
 
