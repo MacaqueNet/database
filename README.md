@@ -24,7 +24,7 @@ The [workflow](https://github.com/MacaqueNet/database/blob/main/workflow/Macaque
 ### Relational database
 
 The MacaqueNet database is organised as a relational database. 
-You can find an overview of all the tables that are part of the database, and how they are linked in the [relational database overview](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20relational%20database%20overview.pdf).
+You can find an overview of all the tables that are part of the database, and how they are linked in the [relational database overview](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20relational%20database%20scheme.pdf).
 The [glossary](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20Glossary.pdf) has definitions for each variable in the database.
 
 ### Terms of use
