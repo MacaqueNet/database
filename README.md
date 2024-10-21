@@ -25,11 +25,11 @@ The [workflow](https://github.com/MacaqueNet/database/blob/main/workflow/Macaque
 
 The MacaqueNet database is organised as a relational database. 
 You can find an overview of all the tables that are part of the database, and how they are linked in the [relational database overview](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20relational%20database%20overview.pdf).
-The [glossary](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20glossary.pdf) has definitions for each variable in the database.
+The [glossary](https://github.com/MacaqueNet/database/blob/main/relational%20database/MacaqueNet%20Glossary.pdf) has definitions for each variable in the database.
 
 ### Terms of use
 
-The [terms of use](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20terms%20of%20use.pdf) document is designed to guide the use of data hosted at the MacaqueNet database. 
+The [terms of use](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20Terms%20of%20Use.pdf) document is designed to guide the use of data hosted at the MacaqueNet database. 
 MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data contributors, the document includes a data user agreement and guidelines for attribution.
 
 ### MacaqueNet collaborators
