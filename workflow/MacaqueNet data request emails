@@ -16,9 +16,9 @@ Thank you for your interest in contributing data to MacaqueNet or for your sugge
 MacaqueNet
 
 ### Email template for establishing contact between data user & data contributor
-To be sent to each data contributor (with data user in CC) for each dataset requested by a data user
+To be sent to each data contributor (with data user(s) in CC) for each dataset requested by a data user
 
-Dear [data contributor] and [data user],
+Dear [data contributor(s)] and [data user(s)],
 
 MacaqueNet’s mission is to encourage and facilitate collaboration between macaque researchers. Thank you both for being part of MacaqueNet!
 
@@ -39,16 +39,14 @@ To begin negotiations, [lead data contributor], as the lead contact for these da
   3. Do you propose any other usage terms? If yes, please list them below.
   4. Do you agree that, if required by the journal, the derived metrics from the shared data (with scrambled subject names) will be deposited in a public repository (e.g., Dryad)?
  
-[Data users] should consider these proposed usage terms and either accept the terms or discuss with the lead data contributor to clarify or negotiate the terms. Note that the MacaqueNet management team does not need to be cc’d in negotiation emails.
+[Data users] should consider these proposed usage terms and either accept the terms or discuss with the lead data contributor to clarify or negotiate the terms. 
+Note that the MacaqueNet management team does not need to be cc’d in negotiation emails.
 
 Once the data contributor(s) and data user(s) have agreed on the terms of using the dataset(s), we ask that [lead data contributor] sends an email to MacaqueNet@gmail.com granting permission to share the requested dataset(s) with [data user(s)], or letting us know that you do not wish to share your datasets for this study. 
-
 Please aim to reply within two weeks, and if you anticipate needing more time, kindly inform us in advance. 
-
 Once permission has been granted, the internal MacaqueNet team will send the dataset(s) to the data user. 
 
 As outlined in our Terms of Use [ADD LINK to Terms of Use: https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20Terms%20of%20Use.pdf], the shared data must be used solely for the intended project for which access was granted. In addition to the agreed upon usage terms for individual datasets, any resulting papers using data from MacaqueNet should adhere to the citation guidelines stipulated in Annex I of the MacaqueNet terms of use, which include adding MacaqueNet as a consortium co-author.
-
 Data contributors can find more information about what happens when a data request is made here.[ADD LINK TO PDF: https://github.com/MacaqueNet/database/blob/main/workflow/What%20happens%20when%20a%20data%20user%20requests%20to%20use%20your%20data.pdf]
 
 Best wishes,
