@@ -4,8 +4,6 @@
 
 ---
 
-## Information about subfolders
-
 Each issue subfolder contains a pdf copy of each newsletter, along with any accompanying documents that are linked in each newsletter issue. 
 
 Each newsletter provides updates on all things MacaqueNet, including database updates, new projects and upcoming symposia.
