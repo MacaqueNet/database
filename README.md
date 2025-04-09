@@ -12,7 +12,7 @@
 
 [MacaqueNet](https://macaquenet.github.io/) is a global grassroots network, whose mission is to encourage and facilitate collaboration between macaque researchers. Through cross-species comparative research, we can address questions that single-species studies cannot.
 As part of this project we are building the [FAIR](https://www.go-fair.org/fair-principles/), standardised and collaborative [MacaqueNet database](https://macaquenet.github.io/database/), bringing together data owners and users. 
-We always welcome [new projects](https://docs.google.com/forms/d/e/1FAIpQLSfR3pvQBxVdw8PK0UhnTfzd2Ty85oLSY3HVHmApoq7s-n26Jg/viewform) or [new data contributions and suggestions](https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform).
+We always welcome [new data requests](https://docs.google.com/forms/d/e/1FAIpQLSfR3pvQBxVdw8PK0UhnTfzd2Ty85oLSY3HVHmApoq7s-n26Jg/viewform), [new data contributions](https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform) & proposals for new branches of the database with new data types. 
 
 Below you will find an overview of the files that can be found in each folder within this repository:
 
