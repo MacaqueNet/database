@@ -61,6 +61,7 @@ The ['maps'](https://github.com/MacaqueNet/database/tree/main/images/maps) sub-f
 This subfolder contains all MaccaqueNet papers that have been published to-date. All papers are written about the MacaqueNet database and/or consortia, or utilise data stored in the MacaqueNet database.
 
 You can find out more about the project behind the manuscript on our [website](https://macaquenet.github.io/)
+
 ------------------------------------------------------------------------
 
 ## [Newsletters](https://github.com/MacaqueNet/database/tree/main/newsletters)
