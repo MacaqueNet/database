@@ -58,13 +58,16 @@ The ['maps'](https://github.com/MacaqueNet/database/tree/main/images/maps) sub-f
 
 ## [Manuscripts](https://github.com/MacaqueNet/database/tree/main/manuscripts)
 
-This folder contains all published manuscripts from studies that utilised the MacaqueNet database or involves the MacaqueNet consortium.
+This subfolder contains all MaccaqueNet papers that have been published to-date. All papers are written about the MacaqueNet database and/or consortia, or utilise data stored in the MacaqueNet database.
 
+You can find out more about the project behind the manuscript on our [website](https://macaquenet.github.io/)
 ------------------------------------------------------------------------
 
 ## [Newsletters](https://github.com/MacaqueNet/database/tree/main/newsletters)
 
-This folder contains all issues of the MacaqueNet newsletter, which is sent out via email every 6 months (previously every 3 months, until Oct 2024). Our newsletter is a great way to stay up-to-date with eveything from project updates to upcoming events. Anyone can subscribe using our newsletter sign-up [form](https://docs.google.com/forms/d/e/1FAIpQLSef2OLRBd0Bd4PcgsASWWF8JEb2ZEL90XugA2lqLlRud7qDGQ/viewform?pli=1)
+This folder contains all issues of the MacaqueNet newsletter, which is sent out via email every 6 months (previously every 3 months, until Oct 2024). Each issue subfolder contains a pdf copy of each newsletter, along with any accompanying documents that are linked in each newsletter issue. Our newsletter is a great way to stay up-to-date with eveything from project updates to upcoming events. 
+
+Interested in learning more about MacaqueNet? Anyone can subscribe using our newsletter sign-up [form](https://docs.google.com/forms/d/e/1FAIpQLSef2OLRBd0Bd4PcgsASWWF8JEb2ZEL90XugA2lqLlRud7qDGQ/viewform?pli=1)
 
 ------------------------------------------------------------------------
 
