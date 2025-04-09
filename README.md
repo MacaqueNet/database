@@ -48,11 +48,13 @@ The ['maps'](https://github.com/MacaqueNet/database/tree/main/images/maps) sub-f
 ***
 
 ## Manuscripts
+
 This folder contains all published manuscripts from studies that utilised the MacaqueNet database or involves the MacaqueNet consortium.
 
 ***
 
 ## Newsletters
+
 This folder contains all issues of the MacaqueNet newsletter, which is sent out via email every 6 months (previously every 3 months, until Oct 2024). Our newsletter is a great way to stay up-to-date with eveything from project updates to upcoming events. Anyone can subscribe using our newsletter sign-up [form](https://docs.google.com/forms/d/e/1FAIpQLSef2OLRBd0Bd4PcgsASWWF8JEb2ZEL90XugA2lqLlRud7qDGQ/viewform?pli=1)
 
 ***
@@ -71,15 +73,18 @@ The [What happens when a data user requests to use your data.pdf](https://github
 ***
 
 ## Acknowledgements
+
 The ['MacaqueNet research site acknowledgements.Rmd'](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborators/MacaqueNet%20research%20sites%20acknowledgments.Rmd) lists MacaqueNet collaborators with their current affiliations. We do our best to keep the affiliations up to date, but recommend checking acknowledgements before publishing.
 The [MacaqueNet collaborators map](https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20collaborators/MacaqueNet%20collaborator%20map.pdf) shows where current MacaqueNet collaborators are located, as well as the geographical range of wild macaques.
 
 ***
 
 ## Database Version
+
 The ['NEWS.md'](https://github.com/MacaqueNet/database/blob/main/NEWS.md) file contains a version history for all MacaqueNet database updates. Here you can find information about the current database version, as well as all previous versions & their updates.
 
 ***
 
 ## Issues, ideas or requests?
+
 Have you detected issues in any of our documents? Or do you have any requests for additional data or suggestions? Feel free to share these with us here ([create new issue](https://github.com/MacaqueNet/database/issues/new/choose)) or by [emailing us](mailto:MacaqueNet@gmail.com).
