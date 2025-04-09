@@ -6,6 +6,10 @@
   &nbsp;Welcome to the public repository for the MacaqueNet Database! <br> This README is an overview of the various files you can find in this repository.&nbsp;
 </h3>
 
+h2 {
+  color: #2C3E50; /* or whatever blue you like */
+}
+
 ---
 
 ## What is MacaqueNet?
