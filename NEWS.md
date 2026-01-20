@@ -12,6 +12,9 @@ Welcome to the MacaqueNet database changelog. This document provides a version h
 
 ## Version History
 
+### Version 2026.01.18
+  - **New Data Deployed:** Added more cleaned datasets to internal database.
+
 ### Version 2024.09.18
   - **New Data Deployed:** Added more cleaned and standardized datasets to the database search tool.
   - Implemented new internal functionalities for data sharing.
