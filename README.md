@@ -72,6 +72,14 @@ Interested in learning more about MacaqueNet? Anyone can subscribe using our new
 
 ------------------------------------------------------------------------
 
+## [Meetings](https://github.com/MacaqueNet/database/tree/main/meetings)
+
+This folder includes minutes from past MacaqueNet General Assembly meetings, held biennially during the “Weaving the MacaqueNet” symposia. Attendance is limited to consortium members, and discussions focus on internal management and future planning.
+
+------------------------------------------------------------------------
+
+
+
 ## [Workflow](https://github.com/MacaqueNet/database/blob/main/workflow/MacaqueNet%20workflow.pdf)
 
 ### Email Templates
